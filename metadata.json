@@ -1,0 +1,6 @@
+{
+  "name": "Customer Feedback System",
+  "description": "Full-stack Customer Feedback System with instant response validation, SQLite database storage, dynamic rating analytics summary, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
